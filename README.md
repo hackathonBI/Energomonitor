@@ -1,6 +1,8 @@
 Energomonitor Data Description
 ====
 
+Raw CSV samples are [here](https://github.com/hackathonBI/Energomonitor/tree/master/sample%20data).
+
 Provided data are 22 months of power consumption from one of our customers. That's more than 560k samples in total.
 
 Data are in CSV format with three columns:
